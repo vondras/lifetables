@@ -1,0 +1,15 @@
+{
+  "name": "lifetables",
+  "version": "1.0.0",
+  "description": "Get lifetables from SSA",
+  "main": "index.js",
+  "author": "Clayton VonDras",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "papaparse": "^4.5.0"
+  }
+}
